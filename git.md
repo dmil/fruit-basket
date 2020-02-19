@@ -20,7 +20,7 @@ Here are some problems we face, and how git solves them:
 
 #### Reverting to past versions
 
-Git allows us to make save points at any time. These save points are called '**commits**'. Once a save point is made, it's permanent, and allows us to go back to that save point at any time. From there, we can see what the code looked like at that point, or even start building off that version.
+LKASDJFKLAJFKLAJFALKFJA
 
 #### Keeping track of what each version 'meant'
 

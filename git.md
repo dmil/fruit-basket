@@ -6,7 +6,7 @@ Wikipedia
 Github
 
 > Git is an open source program for tracking changes in text files.
-> https://help.github.com/articles/github-glossary/
+> https://help.github.com/articles/github-glossary/abal;kesssafjlskajfakljfdlaaa
 
 ## What is Git?
 
